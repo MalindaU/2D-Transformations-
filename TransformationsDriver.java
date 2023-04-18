@@ -24,7 +24,7 @@ public class TransformationsDriver {
             frame.setTitle("Generated Lines");
             frame.pack();
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
-
+            frame.setVisible(true);
 
     }
 
